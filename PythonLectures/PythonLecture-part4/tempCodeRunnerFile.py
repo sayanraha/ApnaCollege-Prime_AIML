@@ -1,0 +1,1 @@
+pd1.prod_disc(pd1.price,12)
